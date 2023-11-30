@@ -41,4 +41,11 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/01b20c42-1055-4ccf-8f39-f28ab595721a)
 
+11. Prometheus as target is successfully configured on dev server
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/a9f98e90-a2a9-4704-9b41-ee9290338508)
+
+
+
+
 
