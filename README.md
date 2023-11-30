@@ -21,3 +21,6 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/ade3a154-b24b-43d5-be22-595f1235f418)
 
+6. Web App is successfully deployed on test server
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/d06391f2-330d-44b7-b987-d754aee12a12)
