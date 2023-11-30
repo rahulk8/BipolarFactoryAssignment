@@ -24,3 +24,8 @@ Configuration & Setup steps are as below :
 6. Web App is successfully deployed on test server in aws
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/d06391f2-330d-44b7-b987-d754aee12a12)
+
+7. Node Exporter is successfully configured & running on port 9100 for monitoring purpose
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/0940494a-a7db-45f9-9990-1a68177a1ee2)
+
