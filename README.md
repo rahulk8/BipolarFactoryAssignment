@@ -9,6 +9,6 @@ Configuration & Setup steps are as below :
    
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/1eaea1a7-41b9-45bb-9652-2bf550ab3b86)
 
-3. Have configured Kubernetes K3 for managing containerized application
+3. Have successfully configured Kubernetes K3 for managing containerized application
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/db9b3de9-69f6-4079-880f-15a1b2195540)
