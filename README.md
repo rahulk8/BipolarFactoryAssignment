@@ -44,6 +44,19 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/a9f98e90-a2a9-4704-9b41-ee9290338508)
 
+12. C-advisor , node exporter & Prometheus as target is successfully configured , up &  running  on dev server
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/2d7293af-4fac-4b03-981c-30174749bfe5)
+
+13. Successfully configured Grafana on port 3000 on dev server 
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/0773f639-637a-424a-a2b2-b8c565085e44)
+
+14 . Configuring Prometheus server URL under Grafana on dev server
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/eeba31eb-8755-4212-826f-d3dc7ff8b1ad)
+
+
 
 
 
