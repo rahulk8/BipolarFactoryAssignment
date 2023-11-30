@@ -17,3 +17,7 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/9840564b-cf45-4311-b3cd-96c709e9bfb4)
 
+5. TestNg Report is successfully generated in the Jenkins workspace
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/ade3a154-b24b-43d5-be22-595f1235f418)
+
