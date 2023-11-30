@@ -12,3 +12,8 @@ Configuration & Setup steps are as below :
 3. Have successfully configured Kubernetes K3 for managing containerized application
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/db9b3de9-69f6-4079-880f-15a1b2195540)
+
+4. Configuring Github Webhook to automatically trigger a build on every push to main branch
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/9840564b-cf45-4311-b3cd-96c709e9bfb4)
+
