@@ -61,6 +61,10 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/96601b7a-d6d6-4f23-a1aa-9c6472d54e00)
 
+16. Successfully imported & visualized dashboard in grafana
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/7a05dabe-8bbf-4d30-932d-c4252b691c08)
+
 
 
 
