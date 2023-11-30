@@ -65,6 +65,28 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/7a05dabe-8bbf-4d30-932d-c4252b691c08)
 
+17. Creating alert rule
 
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/9cc8cf31-6542-4c9d-b077-9f999c1211ae)
+
+18. Setting alert rule name
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/045a7ac7-33d0-4db9-ba98-e551775c2a68)
+
+19. Alert created successfully
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/90bdc1cd-ee64-4cca-98ae-be53d6d2d449)
+
+20. Alert is firing successfully
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/7e73bf03-040d-44cc-a03e-0df187f21dbd)
+
+21. Configuring Notification policies here
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/92c1e043-64b4-4e55-ac5b-49b850f5907c)
+
+22 . Configuring Contact points to get alert on email
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/18042bfb-1517-4fbb-a5ec-761fa05c8598)
 
 
