@@ -25,7 +25,15 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/d06391f2-330d-44b7-b987-d754aee12a12)
 
-7. Node Exporter is successfully configured & running on port 9100 for monitoring purpose
+7. Node Exporter is successfully configured & running on port 9100  for monitoring purpose
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/0940494a-a7db-45f9-9990-1a68177a1ee2)
+
+8. Metrics is also accessible under node exporter
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/023b3aed-ba35-4cbd-9b56-6119496744e4)
+
+9. C-advisor is successfully up & running on port 8084 
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/7a049032-83b7-4d79-932d-0c7db55741d5)
 
