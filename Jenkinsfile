@@ -41,11 +41,8 @@ node {
     stage('Build the DockerImage of the application'){
         try{
         echo 'creating the docker image'
-		// if you get permission denied issue
-        //sudo usermod -a -G docker jenkins
-        //restart Jenkins
-        //or add sudoers file below line
-        //jenkins ALL=(ALL) NOPASSWD:ALL
+		
+        
         sh "${dockerCMD} build -t rahul9711/medicure:${tagName} ."
         
         }
