@@ -57,6 +57,9 @@ Configuration & Setup steps are as below :
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/eeba31eb-8755-4212-826f-d3dc7ff8b1ad)
 
 
+15. Copying Kubernetes nodes dashboard ID for visualing a dashboard in grafana from grafana.com/grafana/dashboards
+
+![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/96601b7a-d6d6-4f23-a1aa-9c6472d54e00)
 
 
 
