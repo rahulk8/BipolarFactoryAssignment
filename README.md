@@ -33,7 +33,7 @@ Configuration & Setup steps are as below :
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/023b3aed-ba35-4cbd-9b56-6119496744e4)
 
-9. C-advisor is successfully up & running on port 8084 
+9. C-advisor is configured & it is successfully up & running on port 8084 
 
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/7a049032-83b7-4d79-932d-0c7db55741d5)
 
