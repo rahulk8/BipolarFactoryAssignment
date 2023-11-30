@@ -30,7 +30,7 @@ node {
     }
     stage('Build the application'){
         echo 'clean and compile and test package'
-        //sh 'mvn clean package'
+
         sh "${mavenCMD} clean package"
     }
     stage('publish html reports'){
