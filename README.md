@@ -19,6 +19,7 @@ Configuration & Setup steps are as below :
 
 5. App is successfully tested & TestNg Report is successfully generated in the Jenkins workspace
 
+
 ![image](https://github.com/rahulk8/BipolarFactoryAssignment/assets/37226415/ade3a154-b24b-43d5-be22-595f1235f418)
 
 6. Web application successfully deployed on app server & running on port 8082 in aws
